@@ -1,3 +1,0 @@
-img,output,timestamp
-,"{""label"": null, ""confidences"": null}",2026-04-06 19:12:47.314334
-,"{""label"": ""teddy"", ""confidences"": [{""label"": ""teddy"", ""confidence"": 0.9987120628356934}, {""label"": ""grizzly"", ""confidence"": 0.0012824840378016233}, {""label"": ""black"", ""confidence"": 5.504321507032728e-06}]}",2026-04-06 19:51:55.591919
